@@ -1,1 +1,15 @@
-console.log("Connected")
+function game() {
+
+}
+
+function playGame() {
+
+}
+
+function winner() {
+
+}
+
+function gameOver() {
+    
+}
